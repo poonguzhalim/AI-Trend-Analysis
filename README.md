@@ -136,25 +136,34 @@ Key observations:
 
 ---
 
+## Repository Structure
+
 TASK_07_AI_Tool_Adoption_Trend_Analysis
-│
-├── data
+
+├── data/
+
 │   └── dataset.csv
-│
-├── notebook
+
+├── notebook/
+
 │   └── Task07.ipynb
-│
-├── images
+
+├── images/
+
 │   ├── phase3_trend.png
+
 │   ├── phase4_heatmap.png
+
 │   └── phase5_anova.png
-│
-├── reports
+
+├── reports/
+
 │   └── project_summary.txt
-│
+
 ├── README.md
-│
+
 └── requirements.txt
+
 
 ---
 
